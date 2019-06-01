@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/eugeneteu/Documents/projects/flutterHack/flutter_game/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/eugeneteu/Documents/projects/flutterHack/flutter_game/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/eugeneteu/Documents/projects/flutterHack/flutter_game/ios/Flutter/Flutter.framework/Modules/module.modulemap \
+  /Users/eugeneteu/Documents/projects/flutterHack/flutter_game/ios/Flutter/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/eugeneteu/Documents/projects/flutterHack/flutter_game/ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/eugeneteu/Documents/projects/flutterHack/flutter_game/ios/Flutter/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/eugeneteu/Documents/projects/flutterHack/flutter_game/ios/Flutter/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/eugeneteu/Documents/projects/flutterHack/flutter_game/ios/Flutter/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/eugeneteu/Documents/projects/flutterHack/flutter_game/ios/Flutter/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/eugeneteu/Documents/projects/flutterHack/flutter_game/ios/Flutter/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/eugeneteu/Documents/projects/flutterHack/flutter_game/ios/Flutter/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/eugeneteu/Documents/projects/flutterHack/flutter_game/ios/Flutter/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/eugeneteu/Documents/projects/flutterHack/flutter_game/ios/Flutter/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/eugeneteu/Documents/projects/flutterHack/flutter_game/ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/eugeneteu/Documents/projects/flutterHack/flutter_game/ios/Flutter/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/eugeneteu/Documents/projects/flutterHack/flutter_game/ios/Flutter/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/eugeneteu/Documents/projects/flutterHack/flutter_game/ios/Flutter/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/eugeneteu/Documents/projects/flutterHack/flutter_game/ios/Flutter/Flutter.framework/Headers/Flutter.h
